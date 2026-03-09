@@ -203,8 +203,8 @@ This project is licensed under the MIT License — see [LICENSE](LICENSE) for de
 
 **Rishikesh Borah** — Data & Business Analyst
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/rishikeshborah)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/rishikeshborah)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/rishikesh-borah-3b245284/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/Sol-Rev)
 
 ---
 
